@@ -47,8 +47,8 @@ Linux power management often puts USB ports to "sleep" to save power, which disc
 
 2. **Deploy:**
    ```bash
-   chmod +x install_l380.sh
-   sudo ./install_l380.sh
+   chmod +x install.sh
+   sudo ./install.sh
    ```
 
 3. **Post-Install:**
