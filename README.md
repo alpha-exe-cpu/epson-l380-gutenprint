@@ -55,7 +55,8 @@ The automated configuration sets up two isolated pipelines to communicate concur
 Clone this repository to a working folder directly on your target print server hardware:
 
 ```bash
-git clone [https://github.com/alpha-exe-cpu/epson-l380-gutenprint.git](https://github.com/alpha-exe-cpu/epson-l380-gutenprint.git)
+sudo apt install git
+git clone https://github.com/alpha-exe-cpu/epson-l380-gutenprint.git
 cd epson-l380-gutenprint
 ```
 
