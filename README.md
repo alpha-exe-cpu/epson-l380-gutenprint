@@ -55,7 +55,8 @@ Linux power management often puts USB ports to "sleep" to save power, which disc
    Access your CUPS web admin (usually `http://<YOUR_IP>:631/admin`), go to **Printers**, select `Epson_L380_Series`, and ensure the driver is set to: 
    `"Epson L380 - CUPS+Gutenprint+Adrish v5.3.4-m1.0.0"`
 
-u. **Uninstalling**
+## 🗑️ Uninstalling
+
    uninstall.sh: Removes only the custom configurations and services while keeping drivers intact.
    ```bash
    chmod +x uninstall.sh
