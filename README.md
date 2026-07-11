@@ -64,6 +64,6 @@ Linux power management often puts USB ports to "sleep" to save power, which disc
    ```
    uninstall-all.sh: Removes configurations, services, AND the installed print drivers.
    ```bash
-   chmod +x uninstall-all.sh
+   chmod +x *.sh
    sudo ./uninstall-all.sh
    ```
